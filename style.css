@@ -1,6 +1,6 @@
 li {
     display: inline;
-    padding: 1rem 0rem;
+    padding: 0.1rem;
     margin: 1rem;
 }
 
@@ -13,6 +13,7 @@ header {
     margin: 1rem;
     padding: 1rem;
 }
+
 
 label {
     display: block;
