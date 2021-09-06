@@ -1,0 +1,39 @@
+li {
+    display: inline;
+    padding: 1rem 0rem;
+    margin: 1rem;
+}
+
+body {
+    max-width: 400px;
+    margin: auto;
+}
+
+header {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+label {
+    display: block;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    width: 80%;
+}
+
+button {
+    display: block;
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 80%;
+}
+
+p {
+    margin: 1rem;
+    padding: 0.5rem;
+}
