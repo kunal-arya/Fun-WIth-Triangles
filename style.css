@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    padding: 1rem 0.5rem;
+    background-color: #393E41;
+margin: 0rem auto;
+    border-radius: 0rem 0rem 0.5rem 0.5rem;
+}
+
 li {
     display: inline;
     padding: 0.1rem;
@@ -7,12 +22,9 @@ li {
 body {
     max-width: 400px;
     margin: auto;
+    font-family: 'Lato', sans-serif;
 }
 
-header {
-    margin: 1rem;
-    padding: 1rem;
-}
 
 
 label {
@@ -24,17 +36,27 @@ label {
 input {
     margin: 0.5rem;
     padding: 0.5rem;
-    width: 80%;
+    width: 100%;
 }
 
 button {
     display: block;
-    margin: 1rem;
+    margin: 1rem auto;
     padding: 0.5rem;
     width: 80%;
+    background-color:#393E41 ;
+    color: white;
 }
 
 p {
     margin: 1rem;
     padding: 0.5rem;
+}
+
+.link-active {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
 }
