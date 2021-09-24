@@ -5,7 +5,7 @@ const CheckBtn = document.querySelector("#submit-answer");
 const outputBox = document.querySelector("#output");
 
 const correctAnswers = [
-    "90°", "Equilateral triangle", "right angled", "one right angle", "12, 16, 20", "100°", "30°", "a + b + c", "no",  "45°"
+    "90°", "Equilateral triangle", "right angled", "one right angle"
 ]
 
 function calculateAns(){
